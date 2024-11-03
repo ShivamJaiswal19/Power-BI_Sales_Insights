@@ -2,6 +2,10 @@
 
 This project is an interactive Power BI dashboard that visualizes sales data across various dimensions, enabling users to gain actionable insights into revenue trends, customer behavior, and product performance. The dashboard integrates with an SQL database and utilizes ETL (Extract, Transform, Load) processes to ensure data accuracy and relevance. Power Query was used extensively for data transformation and cleaning.
 
+### Dashboard Screenshot
+
+![Dashboard Screenshot](Screenshot%202024-11-03%20172110.png)
+
 ## 🌟 Project Overview
 
 The dashboard provides several interactive and analytical features, including:
